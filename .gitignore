@@ -1,0 +1,12 @@
+.vs
+LearnRepositoryDP/bin
+LearnRepositoryDP/obj
+
+Application/LearnRepositoryDP.Interface/bin
+Application/LearnRepositoryDP.Interface/obj
+
+Domain/LearnRepositoryDP.Models/bin
+Domain/LearnRepositoryDP.Models/obj
+
+Infrastructure/LearnRepositoryDP.Repository/bin
+Infrastructure/LearnRepositoryDP.Repository/obj
